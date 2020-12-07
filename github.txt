@@ -1,0 +1,6 @@
+git clone <link> : to clone the repo 
+make changes to the project
+git status : to check the changes in the file added
+git add : add those changes to the staging area
+git commit -m "message about the changes made" : to commit the changes
+git push : to push changes to remote repository
